@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leydianne-Ferreira
 - 👀 I’m interested in in learning about technology and entering the field.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning ruby.
 - 💞️ I’m looking to collaborate on too many projects.
 - 📫 How to reach me:  www.linkedin.com/in/dia-silva  or @diaafkmary on instagram
 - 😄 Pronouns: she/her
